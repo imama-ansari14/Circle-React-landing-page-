@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Features from "./components/Features";
-import Sections from "./components/Sections";
+import SecTwo from "./components/sect-two";
+import SecThree from "./components/Sect-three";
 import Footer from "./components/Footer";
 
 function App() {
@@ -9,8 +9,8 @@ function App() {
     <div className="font-sans">
       <Navbar />
       <Hero />
-      <Features />
-      <Sections />
+      <SecTwo />
+      <SecThree />
       <Footer />
     </div>
   );

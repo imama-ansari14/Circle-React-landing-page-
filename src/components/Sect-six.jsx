@@ -1,4 +1,4 @@
-import sectSixImg1 from "../assets/images/sect-six1.png";
+import SectSixImg1 from "../assets/images/sect-six1.png";
 import SectSixImg2 from "../assets/images/sect-six2.png";
 import SectSixImg3 from "../assets/images/sect-six3.png";
 
@@ -6,8 +6,7 @@ const SectSix = () => {
   const blogPosts = [
     {
       id: 1,
-      image:
-        "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=400&h=300&fit=crop",
+      image: SectSixImg1,
       title: "Excepteur sint occaecat cupidatat non proident",
       excerpt:
         "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequatur magni dolores eos",
@@ -16,8 +15,7 @@ const SectSix = () => {
     },
     {
       id: 2,
-      image:
-        "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=400&h=300&fit=crop",
+      image: SectSixImg2,
       title: "Quis nostrum exercitationem ullam corporis suscipit laboriosam",
       excerpt:
         "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
@@ -26,8 +24,7 @@ const SectSix = () => {
     },
     {
       id: 3,
-      image:
-        "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=300&fit=crop",
+      image: SectSixImg3,
       title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       excerpt:
         "Couptatem accusantium doloremque laudantium, totam rem aperiam eaque.",

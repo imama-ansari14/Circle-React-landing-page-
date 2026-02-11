@@ -4,6 +4,7 @@ import SecTwo from "./components/Sect-two";
 import SecThree from "./components/Sect-three";
 import SectFour from './components/Sect-four';
 import SectFive from './components/Sect-five';
+import SectSix from './components/Sect-six';
 import Footer from "./components/Footer";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <SecThree />
       <SectFour />
       <SectFive />  
+      <SectSix />
       <Footer />
     </div>
   );

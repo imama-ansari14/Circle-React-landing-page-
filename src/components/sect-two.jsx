@@ -5,7 +5,6 @@ export default function SectionTwo() {
     <section className="w-full py-16 md:py-24 px-5 bg-white">
       <div className="max-w-[1200px] mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-          
           {/* Left Content */}
           <div className="order-2 lg:order-1">
             <p className="text-[#00bcd4] text-sm font-semibold tracking-wider mb-3 uppercase">
@@ -15,7 +14,8 @@ export default function SectionTwo() {
               Tool built for people.
             </h2>
             <p className="text-base md:text-lg text-gray-600 mb-6 leading-relaxed">
-              Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom.
+              Whether you want to edit your Google Docs, resolve Jira issues, or
+              collaborate over Zoom.
             </p>
             <p className="text-base md:text-lg text-gray-600 mb-8 leading-relaxed">
               Circle has 100+ integrations with tools you already use and love.
@@ -35,7 +35,6 @@ export default function SectionTwo() {
               />
             </div>
           </div>
-
         </div>
       </div>
     </section>

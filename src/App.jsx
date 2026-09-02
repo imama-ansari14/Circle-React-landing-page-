@@ -2,9 +2,9 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import SecTwo from "./components/Sect-two";
 import SecThree from "./components/Sect-three";
-import SectFour from './components/Sect-four';
-import SectFive from './components/Sect-five';
-import SectSix from './components/Sect-six';
+import SectFour from "./components/Sect-four";
+import SectFive from "./components/Sect-five";
+import SectSix from "./components/Sect-six";
 import Footer from "./components/Footer";
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       <SecTwo />
       <SecThree />
       <SectFour />
-      <SectFive />  
+      <SectFive />
       <SectSix />
       <Footer />
     </div>

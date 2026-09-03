@@ -1,10 +1,10 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import SecTwo from "./components/Sect-two";
-import SecThree from "./components/Sect-three";
-import SectFour from "./components/Sect-four";
-import SectFive from "./components/Sect-five";
-import SectSix from "./components/Sect-six";
+import SecTwo from "./components/Sect-two.jsx";
+import SecThree from "./components/Sect-three.jsx";
+import SectFour from "./components/Sect-four.jsx";
+import SectFive from "./components/Sect-five.jsx";
+import SectSix from "./components/Sect-six.jsx";
 import Footer from "./components/Footer";
 
 function App() {

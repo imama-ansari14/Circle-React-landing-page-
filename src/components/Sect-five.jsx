@@ -1,6 +1,6 @@
 
 import sectionFiveImge from "../assets/images/sect-five.png";
-    
+
 const SectFive = () => {
   return (
     <section className="bg-gray-50 py-16 px-6">
@@ -29,7 +29,7 @@ const SectFive = () => {
 
           {/* Right Image */}
           <div className="relative">
-            <img 
+            <img
               src={sectionFiveImge}
               className="rounded-lg shadow-xl w-full"
             />

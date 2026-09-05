@@ -55,7 +55,7 @@ export default function SectionThree() {
   return (
     <section className="w-full py-16 md:py-24 px-5 bg-white">
       <div className="max-w-[1200px] mx-auto">
-        
+
         {/* Section Header */}
         <div className="text-center mb-12 md:mb-16">
           <p className="text-[#00bcd4] text-sm font-semibold tracking-wider mb-3 uppercase">
@@ -81,12 +81,12 @@ export default function SectionThree() {
                   className="h-20 md:h-24 w-auto object-contain"
                 />
               </div>
-              
+
               {/* Award Title */}
               <h3 className="text-base md:text-lg font-semibold text-gray-900 mb-1">
                 {award.title}
               </h3>
-              
+
               {/* Award Subtitle */}
               <p className="text-base md:text-lg font-semibold text-gray-900">
                 {award.subtitle}

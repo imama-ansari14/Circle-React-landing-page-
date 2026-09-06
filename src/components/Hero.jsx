@@ -32,7 +32,7 @@ export default function HeroSection() {
         </div>
       </div>
 
-      {/* ================= BRANDS SECTION WITH ANIMATION ================= */}
+      {/* ==== BRANDS SECTION WITH ANIMATION ==== */}
       <div className="max-w-[1200px] mx-auto mt-20 text-center overflow-hidden">
         <p className="text-[#00bcd4] text-sm font-semibold tracking-wider mb-2.5 uppercase">
           OUR CUSTOMERS
